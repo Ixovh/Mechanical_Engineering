@@ -1,6 +1,6 @@
 # second task  
 * **OverView**  
-    * this task is designing robot's arm with 5 dgree of freedom
+    * this task is designing robot's arm with 5 degree of freedom
 
 * **Requirements**  
     * 4 Servo motor  
